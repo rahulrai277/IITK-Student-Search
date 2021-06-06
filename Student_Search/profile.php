@@ -4,7 +4,7 @@
 	
 	include "imageconnect.php";
 		
-	include 'index.php';
+	include 'index.html';
 ?>
 		
 	<body background="profile.jpg">
